@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Tableau and working on projects related to DA **
 
-- 💬 Ask me about **React.js,Node.js,Javascript,Java,,HTML,CSS**
+- 💬 Ask me about **Microsoft Excel , Google sheets , Power BI , Tableau , Python **
 
 - 📫 How to reach me **sanjana30agarwal@gmail.com**
 
