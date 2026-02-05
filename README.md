@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sanjana30agarwal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nF7PR2eWEigNMWgxyxkulWjAe93UyG1K/view?usp=share_link](https://drive.google.com/file/d/1nF7PR2eWEigNMWgxyxkulWjAe93UyG1K/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1cTrarmko02IWD54KuPsyX3_bjnbme959/view?usp=drive_link)
 
 - ⚡ Fun fact **I am a Funny Person**
 
